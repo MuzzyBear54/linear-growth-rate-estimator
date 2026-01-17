@@ -4,8 +4,7 @@ title: "linear-growth-rate-estimator"
 type: software
 authors:
   - given-names: Ben
-    family-names: ""
-repository-code: ""
+    family-names: Cohen
 license: MIT
 keywords:
   - plasma
