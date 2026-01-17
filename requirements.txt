@@ -1,0 +1,8 @@
+# Core numeric stack
+numpy>=1.22
+
+# Smilei post-processing (if using happi)
+h5py>=3.7
+
+# Optional (enable if you plot from the script)
+matplotlib>=3.6

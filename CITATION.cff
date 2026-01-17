@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "linear-growth-rate-estimator"
+type: software
+authors:
+  - given-names: Ben
+    family-names: ""
+repository-code: ""
+license: MIT
+keywords:
+  - plasma
+  - PIC
+  - instability
+  - growth rate
+  - spectral analysis
+  - Smilei
