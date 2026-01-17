@@ -1,8 +1,3 @@
 # Examples
 
-Drop small, reproducible examples here, for instance:
-
-- minimal synthetic time-series that grows exponentially with noise
-- a tiny excerpt of field snapshots (or generated toy data) to validate plateau selection
-
-Avoid committing huge simulation outputs; prefer small slices or generators.
+Run on of smilei's Benchmarks (e.g. "tst1d_02_two_str_instability.py" for 1D 2 stream instability), and run the script on the outpus files. (adjustment of parameters might be needed for correct units)
